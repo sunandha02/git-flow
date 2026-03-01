@@ -8,3 +8,4 @@ Add to cart functionality
 Remove from cart option
 Payment gateway integrated
 Payment success page
+Version number updated to 1.0
