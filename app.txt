@@ -2,3 +2,4 @@ Initial project
 Login feature added
 Login UI created
 Login backend logic added
+Login validation added
