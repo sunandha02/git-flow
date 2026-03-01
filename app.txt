@@ -7,3 +7,4 @@ Cart page created
 Add to cart functionality
 Remove from cart option
 Payment gateway integrated
+Payment success page
