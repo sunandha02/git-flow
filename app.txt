@@ -9,3 +9,4 @@ Remove from cart option
 Payment gateway integrated
 Payment success page
 Version number updated to 1.0
+Minor bug fixes before release
