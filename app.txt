@@ -5,3 +5,4 @@ Login backend logic added
 Login validation added
 Cart page created
 Add to cart functionality
+Remove from cart option
